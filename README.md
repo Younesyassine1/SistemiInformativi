@@ -1,4 +1,4 @@
-#TEORIA DEI SISTEMI INFORMATIVI
+# TEORIA DEI SISTEMI INFORMATIVI
 
 ### 1. Il Contesto e l'Organizzazione
 L'organizzazione e le sue componenti si strutturano secondo una precisa gerarchia piramidale e sistemica (dal macro al micro):
